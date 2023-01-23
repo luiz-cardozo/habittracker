@@ -121,3 +121,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Expo and mobile configuration
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
